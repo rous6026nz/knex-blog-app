@@ -1,0 +1,47 @@
+/* 
+    Main application CSS stylesheet file.
+    -----------------------------------
+    *** Mobile first approach ***
+    -----------------------------------
+*/
+
+/* 
+    CSS Styleshet Reset Section.
+    -----------------------------------
+    NOTE:   You can either add any stylesheet
+            reset code in this section, or
+            import CSS files here. For more
+            information about CSS resets and
+            implementations, check out
+            the resources below.
+    -----------------------------------
+    Resources:
+    https://css-tricks.com/reboot-resets-reasoning/
+    https://meyerweb.com/eric/tools/css/reset/
+    https://necolas.github.io/normalize.css/
+    -----------------------------------
+*/
+
+/* 
+    Base Typography Styling.
+    -----------------------------------
+*/
+
+/* 
+    Base Layout Styling.
+    -----------------------------------
+*/
+
+/* 
+    Base Element Styling.
+    -----------------------------------
+*/
+
+/*  -----------------------------------
+    Media Queries.
+    -----------------------------------
+    - 600px: Tablet.
+    - 768px: Small desktop screens.
+    - 988px: Desktop.
+    - 1280px: Large Desktop.
+*/

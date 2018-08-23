@@ -6,12 +6,19 @@
     File dependencies.
     -----------------------------------
     *** BASE DEPENDENCIES ***
+    - Path
     - Express
     - Express Handlebars
     - Application routes
 
     *** CUSTOM DEPENDENCIES ***
     Add any other dependencies here:
+*/
+
+/* 
+    Configure Express to serve static
+    files from the 'public' folder.
+    -----------------------------------
 */
 
 // 
